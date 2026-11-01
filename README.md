@@ -24,7 +24,6 @@ short_description: A hybrid AI assistant combining RAG with Knowledge Graph.
 A sophisticated AI assistant that combines Retrieval-Augmented Generation (RAG) with Knowledge Graph technology to provide intelligent, context-aware responses. Built with CrewAI, Neo4j, and Streamlit, this system leverages both vector similarity search and graph-based reasoning for enhanced information retrieval.
 
 #### Video Link: https://youtu.be/nccqkSy7UZg
-#### Demo Link: https://huggingface.co/spaces/CoderNoah/hybrid-kg-rag-assistant 
 
 > Note: The currently deployed demo may not work as expected, as the Neo4j instance might have been automatically deleted by the time you try to use it.
 
